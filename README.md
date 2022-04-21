@@ -2,9 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-kdvsgn)
 
-# This example is all about sharing data between non-related components
-
-# using Service layer and BehaviourSubject
+# This example is all about sharing data between non-related components using Service layer and BehaviourSubject
 
 # Reference:
 
